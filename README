@@ -1,0 +1,14 @@
+DESCRIPTION:
+Example of opening and saving a file via ofFileSystemDialog
+
+USAGE:
+Press spacebar to open an image, "s" to save the result
+
+REQUIREMENTS:
+openFrameworks 007
+
+TESTED WITH:
+Xcode 3.2.6
+Mac OS X 10.6.8
+
+MISC:
